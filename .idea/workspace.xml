@@ -20,30 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33487fd1-24a3-42aa-aeae-1e646b79a083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/Factory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/Factory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/ProductA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/ProductA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/ProductB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/ProductB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/chouxianggongchang/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/FactoryA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/FactoryB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/ProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/gongchangfangfa/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/jiandangongchang/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/jiandangongchang/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/jiandangongchang/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/jiandangongchang/ProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/gongchang/jiandangongchang/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/io/nio/FileCopyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/io/nio/FileCopyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/io/chatroom/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/io/chatroom/Server.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -295,7 +273,7 @@
       <workItem from="1601126884699" duration="11472000" />
       <workItem from="1601424887607" duration="73000" />
       <workItem from="1601527998948" duration="1184000" />
-      <workItem from="1601604263607" duration="6510000" />
+      <workItem from="1601604263607" duration="11981000" />
     </task>
     <servers />
   </component>
