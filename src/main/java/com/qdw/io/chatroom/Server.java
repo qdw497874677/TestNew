@@ -1,5 +1,6 @@
 package com.qdw.io.chatroom;
 
+import java.io.Closeable;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
@@ -143,6 +144,16 @@ public class Server {
 
                 // 将buffer数据写入到通道
                 dest.write(buffer);
+            }
+        }
+    }
+
+    private void close(Closeable closeable){
+        if (closeable!=null){
+            try {
+                closeable.close();
+            }catch (IOException e){
+                e.printStackTrace();
             }
         }
     }

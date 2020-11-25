@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33487fd1-24a3-42aa-aeae-1e646b79a083" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/aqs/Test4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/aqs/Test5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/aqs/Test6.java" afterDir="false" />
@@ -51,6 +52,12 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/aqs/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/aqs/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/jihe/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/jihe/Test1.java" afterDir="false" />
     </list>
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/io/chatroom/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/io/chatroom/Server.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,17 +124,22 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+=======
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qdw.shejimoshi.gongchang.chouxianggongchang" />
+      <recent name="com.qdw.shejimoshi.gongchang.jiandangongchang" />
+      <recent name="com.qdw.shejimoshi.gongchang.gongchangfangfa" />
       <recent name="com.qdw.io.chatroom" />
       <recent name="com.qdw.wangyi" />
-      <recent name="com.qdw.interview.baidu" />
-      <recent name="com.qdw.yuanfudao" />
-      <recent name="com.qdw.qi" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Test1">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.test333.Test1" />
@@ -135,6 +147,27 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qdw.test333.*" />
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.shejimoshi.gongchang.gongchangfangfa.Test" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.shejimoshi.gongchang.gongchangfangfa.*" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +175,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.interview.Test111" />
       <module name="myTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qdw.interview.*" />
+=======
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.shejimoshi.gongchang.jiandangongchang.Test" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.shejimoshi.gongchang.jiandangongchang.*" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +197,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.yinyong.Test2" />
       <module name="myTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qdw.yinyong.*" />
+=======
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.shejimoshi.gongchang.chouxianggongchang.Test" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.shejimoshi.gongchang.chouxianggongchang.*" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +219,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.aqs.Test4" />
       <module name="myTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qdw.aqs.*" />
+=======
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.xiancheng.Test" />
+      <module name="myTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.xiancheng.*" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,8 +241,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.aqs.Test6" />
+=======
+    <configuration name="Youdianduilie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.paixu.Youdianduilie" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
       <module name="myTest" />
       <extension name="coverage">
         <pattern>
@@ -196,11 +261,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test111" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test6 (1)" />
+=======
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Youdianduilie" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +361,7 @@
       <workItem from="1601087336783" duration="4729000" />
       <workItem from="1601126884699" duration="11472000" />
       <workItem from="1601424887607" duration="73000" />
+<<<<<<< HEAD
       <workItem from="1601527998948" duration="1516000" />
       <workItem from="1601634226424" duration="1258000" />
       <workItem from="1602052648351" duration="175000" />
@@ -309,6 +383,10 @@
       <workItem from="1604640585450" duration="449000" />
       <workItem from="1604651903190" duration="2889000" />
       <workItem from="1605166217404" duration="4044000" />
+=======
+      <workItem from="1601527998948" duration="1184000" />
+      <workItem from="1601604263607" duration="11981000" />
+>>>>>>> 88273e5f34d14989a4f5f6c625deca93e7e6919b
     </task>
     <servers />
   </component>
