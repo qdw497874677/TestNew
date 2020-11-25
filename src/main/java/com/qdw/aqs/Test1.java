@@ -1,5 +1,6 @@
 package com.qdw.aqs;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -10,45 +11,43 @@ import java.util.concurrent.locks.ReentrantLock;
  * @date: 2020/9/17 0017 14:34
  */
 public class Test1 {
+
     int flag = 0;
     public synchronized void ins(){
 
         try {
             while (flag>5){
-                this.wait();
-            }
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-
-        System.out.println(Thread.currentThread().getName()+"执行+");
-        flag++;
-        this.notify();
-        System.out.println(Thread.currentThread().getName()+"执行结束");
-
-    }
-
-    public synchronized void des(){
-
-        try {
-            while (flag==0){
                 wait();
             }
         }catch (Exception e){
             e.printStackTrace();
         }
 
-        System.out.println(Thread.currentThread().getName()+"执行-");
-        flag--;
+        System.out.println(Thread.currentThread().getName()+"执行+:"+(++flag));
         notify();
         System.out.println(Thread.currentThread().getName()+"执行结束");
-        try {
-            Thread.sleep(10000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+
+    }
+
+    public void des(){
+        synchronized (this){
+            try {
+                while (flag==0){
+                    wait();
+                }
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+            flag += 2;
+            System.out.println(Thread.currentThread().getName()+"执行-:"+(flag));
+            notify();
+            System.out.println(Thread.currentThread().getName()+"执行结束");
         }
+
+
     }
     public static void main(String[] args) {
+//        Thread.currentThread().join();
         new ReentrantLock();
         new LinkedList<>();
         Test1 test1 = new Test1();

@@ -30,6 +30,7 @@ public class Test1 {
 //            System.out.println(list.get(i));
 //            list.remove(i--);
 //        }
+        Iterator<Integer> iterator = list.iterator();
 
         for (int i = list.size()-1; i >=0 ; i--) {
             System.out.println(list.get(i));
